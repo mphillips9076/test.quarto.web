@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "new-page.html",
+    "href": "new-page.html",
+    "title": "1st webpage",
+    "section": "",
+    "text": "This is some sample text."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test.quarto.web",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit the website."
+  },
+  {
+    "objectID": "index.html#heading-1",
+    "href": "index.html#heading-1",
+    "title": "test.quarto.web",
+    "section": "Heading 1",
+    "text": "Heading 1\nThis is some R code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#heading-2",
+    "href": "index.html#heading-2",
+    "title": "test.quarto.web",
+    "section": "Heading 2",
+    "text": "Heading 2\nThis is more text."
+  }
+]
